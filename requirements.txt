@@ -1,0 +1,20 @@
+Django==1.11.14
+pymysql
+pillow
+django-redis-cache==1.7.1
+celery==3.1.25
+celery-with-redis==3.0
+django-celery==3.2.1
+django-redis == 4.9.0
+django-redis-cache==1.7.1
+geetest == 3.2.1
+redis == 2.10.6
+bs4
+django-cors-headers==2.4.0
+django-crispy-forms==1.7.2
+django-filter==2.0.0
+djangorestframework==3.9.0
+djangorestframework-jwt==1.11.0
+Markdown==3.0.1
+django-guardian==1.4.9
+beautifulsoup4==4.6.3
